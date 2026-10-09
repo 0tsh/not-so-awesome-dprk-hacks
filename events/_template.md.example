@@ -1,0 +1,22 @@
+---
+id: "new-example-name"
+title: "Name of the incident, as the source calls it"
+dateAsWritten: "2026-09-24"
+year: 2026
+country: "as written by the source"
+tags: ""
+actors: "Lazarus Group (as the source names the actor)"
+actorNames:
+  - "Lazarus Group"
+dollarFiguresAsWritten: "$100 million (as written)"
+sourceNames:
+  - "Name of the publisher or report"
+entries:
+  - source: "Name of the publisher or report"
+    entryId: "short-unique-id-from-that-source"
+    dateAsWritten: "2026-09-24"
+    name: "Title in the source"
+    text: "The source's own words, quoted exactly."
+    urls:
+      - "https://example.com/the-page"
+---
